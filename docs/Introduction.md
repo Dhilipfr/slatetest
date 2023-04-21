@@ -1,4 +1,4 @@
-# Introduction to Slate! after repo access granted
+# Introduction to Slate! after repo access granted after app suspended
 
 # Slate Test
 
