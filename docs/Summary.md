@@ -1,6 +1,6 @@
 - [Introduction](Introduction.md)
 
-## Walkthroughs
+
 
 - [Installing Slate](walkthroughs/01-installing-slate.md)
 - [Adding Event Handlers](walkthroughs/02-adding-event-handlers.md)
