@@ -1,8 +1,9 @@
+- [Installing Slate](walkthroughs/01-installing-slate.md)
 - [Introduction](Introduction.md)
 
 
 
-- [Installing Slate](walkthroughs/01-installing-slate.md)
+
 - [Adding Event Handlers](walkthroughs/02-adding-event-handlers.md)
 - [Defining Custom Elements](walkthroughs/03-defining-custom-elements.md)
 - [Applying Custom Formatting](walkthroughs/04-applying-custom-formatting.md)
