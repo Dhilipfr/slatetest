@@ -1,5 +1,5 @@
 # Interfaces
-1111
+
 Slate works with pure JSON objects. All it requires is that those JSON objects conform to certain interfaces. For example, a text node in Slate must obey the `Text` interface:
 
 ```typescript
