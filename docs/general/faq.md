@@ -1,5 +1,5 @@
 # FAQ
-
+dhilip new data
 A series of common questions people have about Slate:
 
 - [Why is content pasted as plain text?](faq.md#why-is-content-is-pasted-as-plaintext)
