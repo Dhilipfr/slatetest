@@ -1,6 +1,6 @@
 # Editor
 
-The `Editor` object stores all the state of a slate editor. It can be extended by plugins to add helpers and implement new behaviors.
+The `Editor` object stores all the state of a slate editor. Its can be extended by plugins to add helpers and implement new behaviors.
 
 ```typescript
 interface Editor {
