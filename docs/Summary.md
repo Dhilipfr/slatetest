@@ -1,6 +1,7 @@
 # Table of contents
 
 - [Introduction](Introduction.md)
+- [Nodes](concepts/02-nodes.md)
 
 ## Walkthroughs
 
